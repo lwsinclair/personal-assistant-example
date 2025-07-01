@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mastra-ai-personal-assistant-example-badge.png)](https://mseep.ai/app/mastra-ai-personal-assistant-example)
+
 # Personal Assistant Agent
 
 An example personal assistant built with Mastra and MCP (Model Context Protocol) that helps with various daily tasks and information management.
